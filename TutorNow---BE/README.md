@@ -1,6 +1,6 @@
 # TutorNow - BE
 ## Developer
--   Trần Quang Đạo
+-   Ngô Hải Văn
 ## Install
 - npm i
 - npm start
